@@ -193,10 +193,6 @@ It's important to note that you cannot include folders in your External Portal o
 Contributions welcome; Please submit all pull requests against the master branch. If your pull request contains Python patches or features, you should include relevant unit tests.
 Thanks!
 
-## Author
-
-[Sabatino Severino](https://about.me/the_sab), @bsab
-
 ## License
 
 Django-Unifi-Portal is available under the MIT license. See the LICENSE file for more info.
